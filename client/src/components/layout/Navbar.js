@@ -38,7 +38,7 @@ const Navbar = ({
           </li>
           <li className="nav-item active">
             <Link to="/form" className="nav-link">
-              Form
+              Personality Test
             </Link>
           </li>
           <li className="nav-item active">
